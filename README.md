@@ -242,7 +242,11 @@ printTriangle(5)**
 
 ```javascript
 function printTriangle(length) {
-	// TODO: Place your code here
+	var ast = "*";
+
+	for (var i = 0; i < length; i++) {
+		console.log = ast+=
+	}
 }
 
 printTriangle(3);
